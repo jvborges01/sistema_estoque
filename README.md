@@ -6,7 +6,7 @@ Ter um sistema de estoque é essencial para qualquer negócio que lida com produ
 
 
 ## Passo Inicial para Instalação
-
+* É necessário ter o Mysql instalado
 * Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
 
