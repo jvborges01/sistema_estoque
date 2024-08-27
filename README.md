@@ -7,15 +7,15 @@ Ter um sistema de estoque é essencial para qualquer negócio que lida com produ
 
 ## Passo Inicial
 
-1. Baixar o repositório
+* Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
 
 ## Back-End
 
-2. Criar a database sistema_estoque
+1. Criar a database sistema_estoque
 `mysql create sistema_estoque`
 
-3. Importar as tabelas
+2. Importar as tabelas
 `mysql -u usuario -p nome_do_banco_de_dados < caminho_para_o_arquivo/tabelas.sql`
 
 3. Entrar na pasta principal
