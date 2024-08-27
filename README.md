@@ -1,6 +1,6 @@
 # Sistema de Estoque
 
-> git clone https://github.com/jvborges01/sistema_estoque
+`git clone https://github.com/jvborges01/sistema_estoque`
 
 
 > cd sistemma
