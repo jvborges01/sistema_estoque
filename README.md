@@ -1,11 +1,6 @@
 # Sistema de Estoque
 
-## Tecnologias Usadas
 
-
-![Express.js Icon.](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
-![React.js Icon.](https://img.icons8.com/?size=100&id=122637&format=png&color=000000)
-![Mysql Icon.](https://img.icons8.com/?size=100&id=39858&format=png&color=000000)
 1. Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
 
@@ -43,5 +38,11 @@
 3. Inicializar Servidor Vite
 `npm run dev`
 
+## Tecnologias Usadas
+
+
+![Express.js Icon.](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
+![React.js Icon.](https://img.icons8.com/?size=100&id=122637&format=png&color=000000)
+![Mysql Icon.](https://img.icons8.com/?size=100&id=39858&format=png&color=000000)
 
 
