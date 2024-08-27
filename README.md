@@ -5,7 +5,7 @@ Ter um sistema de estoque é essencial para qualquer negócio que lida com produ
 ![printHome](sistema_front/src/assets/tela1.PNG)
 
 
-## PASSO INICIAL
+## Passo Inicial
 
 1. Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
