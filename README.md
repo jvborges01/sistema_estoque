@@ -1,7 +1,7 @@
 # Sistema de Estoque
 
 Tecnologias : MYSQL,EXPRESS,REACT
-![Express Icon.]([https://icons8.com.br/icon/kg46nzoJrmTR/express-js](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
+![Express Icon.](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
 
 1. Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
