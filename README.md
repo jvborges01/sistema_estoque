@@ -2,7 +2,9 @@
 
 Ter um sistema de estoque é essencial para qualquer negócio que lida com produtos físicos. Ele permite o controle preciso de entradas e saídas de mercadorias, ajudando a evitar faltas ou excessos de estoque. Com um sistema eficiente, é possível monitorar as quantidades disponíveis, prever a necessidade de reposição e reduzir desperdícios. Além disso, um bom sistema de estoque facilita a organização e gestão dos produtos, melhora o atendimento ao cliente e otimiza os processos de compra e venda, contribuindo para o sucesso e a sustentabilidade do negócio.
 
-> Passo Inicial
+
+
+
 
 1. Baixar o repositório
 `git clone https://github.com/jvborges01/sistema_estoque`
