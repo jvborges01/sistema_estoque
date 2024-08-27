@@ -1,6 +1,6 @@
 # Sistema de Estoque
 
-##Tecnologias Usadas
+## Tecnologias Usadas
 
 
 ![Express.js Icon.](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
