@@ -1,0 +1,70 @@
+{
+  "name": "estoque",
+  "private": true,
+  "version": "0.0.0",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mdx-js/react": "^3.0.1",
+    "@mdx-js/rollup": "^3.0.1",
+    "@react-pdf/renderer": "^3.3.8",
+    "@reactour/tour": "^3.6.1",
+    "@tanstack/react-query": "^5.21.7",
+    "ag-grid-react": "^31.1.1",
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "create-docz-app": "^0.1.6",
+    "express": "^4.18.3",
+    "handsontable": "^14.2.0",
+    "http-server": "^14.1.1",
+    "lucide": "^0.331.0",
+    "lucide-react": "^0.331.0",
+    "node-xlsx": "^0.23.0",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-data-grid": "^7.0.0-beta.42",
+    "react-dom": "^18.2.0",
+    "react-hot-keys": "^2.7.3",
+    "react-hotkeys-hook": "^4.5.0",
+    "react-router-dom": "^6.22.1",
+    "react-social-icons": "^6.15.0",
+    "styled-components": "^6.1.8",
+    "uuid": "^9.0.1",
+    "zustand": "^4.5.1"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^1.2.19",
+    "@storybook/addon-essentials": "^8.0.0",
+    "@storybook/addon-interactions": "^8.0.0",
+    "@storybook/addon-links": "^8.0.0",
+    "@storybook/addon-onboarding": "^8.0.0",
+    "@storybook/blocks": "^8.0.0",
+    "@storybook/react": "^8.0.0",
+    "@storybook/react-vite": "^8.0.0",
+    "@storybook/test": "^8.0.0",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "eslint-plugin-storybook": "^0.8.0",
+    "prop-types": "^15.8.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.0"
+  }
+}
