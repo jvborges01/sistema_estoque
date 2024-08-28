@@ -44,8 +44,8 @@ Ter um sistema de estoque é essencial para qualquer negócio que lida com produ
 3. Inicializar Servidor Vite
 `npm run dev`
 
-nome - joao
-senha - 123
+* nome - joao
+* senha - 123
 ## Tecnologias Usadas
 
 
